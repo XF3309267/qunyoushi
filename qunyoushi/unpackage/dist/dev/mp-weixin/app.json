@@ -1,0 +1,39 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/upload/upload",
+    "pages/person/person",
+    "pages/vote/vote"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "群有事",
+    "navigationBarBackgroundColor": "#00aaff",
+    "backgroundColor": "#00aaff"
+  },
+  "tabBar": {
+    "selectedColor": "#007AFF",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "/static/tabBarIcon/home.png",
+        "selectedIconPath": "/static/tabBarIcon/homeActive.png"
+      },
+      {
+        "text": "发布",
+        "pagePath": "pages/upload/upload",
+        "iconPath": "/static/tabBarIcon/add.png",
+        "selectedIconPath": "/static/tabBarIcon/add.png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/person/person",
+        "iconPath": "/static/tabBarIcon/person.png",
+        "selectedIconPath": "/static/tabBarIcon/personActive.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

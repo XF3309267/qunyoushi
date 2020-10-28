@@ -1,0 +1,9 @@
+
+.item-box.data-v-aefa46c6{
+	padding-bottom: 20rpx;
+	background-color: #f3f3f3;
+}
+.pro-item.data-v-aefa46c6,.bottom.data-v-aefa46c6{
+	background-color: #FFF;
+}
+

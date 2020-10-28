@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "发起投票",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "u-line": "/uview-ui/components/u-line/u-line",
+    "u-row": "/uview-ui/components/u-row/u-row",
+    "u-col": "/uview-ui/components/u-col/u-col",
+    "u-icon": "/uview-ui/components/u-icon/u-icon"
+  }
+}

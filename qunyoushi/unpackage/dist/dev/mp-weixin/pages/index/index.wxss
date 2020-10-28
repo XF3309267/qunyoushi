@@ -1,0 +1,17 @@
+
+.navBar.data-v-57280228{
+	height: 5em;
+	letter-spacing: .1em;
+}
+.hide-Container.data-v-57280228{
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 10000;
+	height: 100vh;
+	width: 100%;
+	background-color: #FFF;
+}
+.btn-list.data-v-57280228{
+}
+

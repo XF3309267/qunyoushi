@@ -1,0 +1,44 @@
+
+.upload-container.data-v-132d2ab4{
+	min-height: 100vh;
+	width: 100%;
+	padding: 40rpx 10rpx;
+	padding-top: 200rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-flow: row nowrap;
+	        flex-flow: row nowrap;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: start;
+	-webkit-align-items: flex-start;
+	        align-items: flex-start;
+}
+.list.data-v-132d2ab4{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-justify-content: space-around;
+	        justify-content: space-around;
+	-webkit-box-align: start;
+	-webkit-align-items: flex-start;
+	        align-items: flex-start;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-flow: row wrap;
+	        flex-flow: row wrap;
+	padding: 20rpx;
+}
+.item.data-v-132d2ab4{
+	padding: 20rpx 50rpx;
+	text-align: center;
+}
+.subTitle.data-v-132d2ab4{
+	height: 2em;
+	line-height: 2em;
+}
+
